@@ -75,7 +75,8 @@ p {
     font-size: 18px;
     font-family: "proximanova-regular";
     line-height: 1.5;
-    padding: 5% 8% 0% 8%; }
+    padding: 5% 8% 0% 8%;
+    text-align: justify; }
 
 p:first-child { padding-top: 7%; }
 
