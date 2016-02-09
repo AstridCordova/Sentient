@@ -1,0 +1,132 @@
+header {  
+    border-top: 1px solid white;
+    border-bottom: 2px solid #f6f6f6; 
+    padding: 0% 6%;
+    font-family: "proximanova-regular";
+    width: 100%;  }
+
+nav { 
+    padding: 3% ;
+    text-align: right;
+    display: block; }   
+
+nav a { 
+    color: #606060;
+    padding: 0% 3%;
+    text-decoration: none;
+    font-size: 18px;  }
+
+nav a:last-child { padding: 0 0 0 3%; }
+
+footer {  
+    text-align: center;
+    border-top: 2px solid #f6f6f6;  }                                                 
+
+footer .nav-uno a { 
+    text-decoration: none;
+    padding: 2% 0.5% 1.5% 0.5%;  
+    font-size: 18px;
+    font-family: "proximanova-regular";
+    display: inline-block;
+    color: black;  }
+
+footer .nav-dos a { 
+    text-decoration: none;
+    padding: 1.5% 0.5% 0% 0.5%;
+    font-size: 16px;
+    font-family: "proximanova-regular";
+    display: inline-block;
+    color: #979797;  }
+
+footer .nav-tres p { 
+    color: #979797;
+    font-size: 14px; 
+    font-family: "proximanova-regular";
+    padding: 1% 0% 1% 0%;  }
+
+footer img { margin: 0 0.3%; }
+
+.guion { 
+    border: 0.5px solid #979797;
+    height: 12px;
+    display: -webkit-inline-box;  }
+
+
+.banner {
+    color: white;
+    background: url(../img/hero-image-2x.jpg) ;
+    background-size: cover;
+    padding: 11% 0% 1.5% 0%;  }
+
+.banner h1 { 
+    font-family: "proximanova-light";
+    font-size: 50px;  }
+
+.banner img { padding-top: 7.5%; }
+
+.parrafo {
+    font-size: 24px;
+    font-family: "proximanova-light";
+    padding: 5% 22%;
+    line-height: 1.5  }
+
+.cuadros { padding: 0% 0% 5% 0%;  }
+
+.titulo {
+    text-align: center;
+    font-size: 30px;
+    font-family: "proximanova-light";
+    color: #002366;
+    padding: 0% 28% 5% 28%;  }
+
+.tcuadro { 
+    font-size: 30px;  
+    font-family: "proximanova-light";
+    padding: 5% 0% 5% 0%;   }
+
+.cuadro {
+    border: 2px solid #f6f6f6;
+    padding: 7%;
+    height: 285px;
+    width: 90%;  }
+
+.cuadro p { 
+    font-family: "proximanova-regular";
+    font-size: 14px;
+    line-height: 1.5;  }
+
+#contacto { 
+    background: url(../img/background-contac-us-2x.jpg) no-repeat ;
+    background-size: cover;
+    color: white;
+    padding: 6% 30%;  }
+
+#contacto h1 { 
+    font-size: 50px;
+    font-family: "proximanova-regular";  }
+
+#contacto p { 
+    font-family: "proximanova-light";
+    font-size: 30px;
+    margin: 10% 0%;
+    line-height: 1.3;  }
+
+#contacto input {
+    width: 84%;
+    height: 60px;
+    color: #979797;
+    text-align: center;
+    font-size: 32px;
+    font-family: "proximanova-regular";
+    margin: 1.5%; }
+
+#contacto .enviar { 
+    background: #179ad6;
+    color: white;
+    width: 41%;
+    height: 55px;
+    border: none;
+    border-radius: 5%;
+    margin: 1.5%;
+    font-size: 30px;
+    font-family: "proximanova-regular";  }

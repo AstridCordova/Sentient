@@ -1,0 +1,84 @@
+header {  
+    border-top: 1px solid white;
+    border-bottom: 2px solid #f6f6f6; 
+    padding: 0% 6%;
+    font-family: "proximanova-regular";
+    width: 100%;  }
+
+nav { 
+    padding: 3% ;
+    text-align: right;
+    display: block; }   
+
+nav a { 
+    color: #606060;
+    padding: 0% 3%;
+    text-decoration: none;
+    font-size: 18px;  }
+
+nav a:last-child { padding: 0 0 0 3%; }
+
+footer {  
+    text-align: center;
+    border-top: 2px solid #f6f6f6;  }                                                 
+
+footer .nav-uno a { 
+    text-decoration: none;
+    padding: 2% 0.5% 1.5% 0.5%;  
+    font-size: 18px;
+    font-family: "proximanova-regular";
+    display: inline-block;
+    color: black;  }
+
+footer .nav-dos a { 
+    text-decoration: none;
+    padding: 1.5% 0.5% 0% 0.5%;
+    font-size: 16px;
+    font-family: "proximanova-regular";
+    display: inline-block;
+    color: #979797;  }
+
+footer .nav-tres p { 
+    color: #979797;
+    font-size: 14px; 
+    font-family: "proximanova-regular";
+    padding: 1% 0% 1% 0%;  }
+
+footer img { margin: 0 0.3%; }
+
+.guion { 
+    border: 0.5px solid #979797;
+    height: 12px;
+    display: -webkit-inline-box;  }
+
+.titulo { 
+    text-align: center;
+    font-family: "proximanova-regular";
+    font-size: 50px; 
+    color: #002366;
+    padding: 4% 0% 1% 0%; }
+
+.subtitulo { 
+    text-align: center;
+    font-family: "proximanova-light";
+    font-size: 45px;
+    color: #002366;
+    padding: 0% 0% 4% 0%; }
+
+.foto { text-align: center; }
+
+.fotopersona { width: 84%; }
+
+p { 
+    font-size: 18px;
+    font-family: "proximanova-regular";
+    line-height: 1.5;
+    padding: 5% 8% 0% 8%; }
+
+p:first-child { padding-top: 7%; }
+
+p:last-child { padding-bottom: 7%; }
+
+@media screen and (max-width: 480px) {
+    
+  

@@ -1,0 +1,269 @@
+header {  
+    border-top: 1px solid white;
+    border-bottom: 2px solid #f6f6f6; 
+    padding: 0% 6%;
+    font-family: "proximanova-regular";
+    width: 100%;  }
+
+nav { 
+    padding: 3% ;
+    text-align: right;
+    display: block; }   
+
+nav a { 
+    color: #606060;
+    padding: 0% 3%;
+    text-decoration: none;
+    font-size: 18px;  }
+
+nav a:last-child { padding: 0 0 0 3%; }
+
+footer {  
+    text-align: center;
+    border-top: 2px solid #f6f6f6;  }                                                 
+
+footer .nav-uno a { 
+    text-decoration: none;
+    padding: 2% 0.5% 1.5% 0.5%;  
+    font-size: 18px;
+    font-family: "proximanova-regular";
+    display: inline-block;
+    color: black;  }
+
+footer .nav-dos a { 
+    text-decoration: none;
+    padding: 1.5% 0.5% 0% 0.5%;
+    font-size: 16px;
+    font-family: "proximanova-regular";
+    display: inline-block;
+    color: #979797;  }
+
+footer .nav-tres p { 
+    color: #979797;
+    font-size: 14px; 
+    font-family: "proximanova-regular";
+    padding: 1% 0% 1% 0%;  }
+
+footer img { margin: 0 0.3%; }
+
+.guion { 
+    border: 0.5px solid #979797;
+    height: 12px;
+    display: -webkit-inline-box;  }
+
+.fil-1{
+  padding-bottom: 10%;
+}
+
+.introduccion h1 { 
+  font-size: 50px;
+  text-align: center;
+  color: #002366;
+  font-family: "proximanova-regular"; 
+  padding:7% 0% 5% 0%; }
+
+.introduccion .col-5 p { 
+  font-size: 24px;
+  font-family: "proximanova-light";
+  display: inline;
+  line-height: 1.5; }
+
+.icono{
+ -webkit-transform: rotate(180deg);  /* safari - Chrome*/
+ -moz-transform: rotate(180deg);     /* Firefox */
+ -o-transform: rotate(180deg);       /* Opera */
+  transform: rotate(180deg);
+ }
+
+
+.introduccion .col-7 p{
+  font-size: 19px;
+  font-family: "proximanova-regular";
+  line-height: 1.5;
+  padding: 0 0 0 5%; }
+
+
+
+.banner{
+  background-image: url(../img/background-about-us-2x.jpg);
+  height: 750px;
+  padding: 10%;
+}
+
+.fil-2{
+  padding: 0 15% 0 15%
+}
+
+.fil-2 h2{
+  font-size: 45px;
+  font-family: "proximanova-light";
+  color:#f6f6f6;
+  padding: 0 0 5%;
+}
+
+.fil-2 a{
+  background-color: #002366;
+  border: solid 2px #002366;
+  font-family: "proximanova-light";
+  text-decoration: none;
+  border-radius: 5px;
+  color: #f6f6f6;
+  padding: 7px 0 7px 0;
+  width: 400px;
+  font-size: 30px;
+
+}
+
+.fil-2 p{
+  font-size: 14px;
+  font-family: "proximanova-light";
+  color: #f6f6f6;
+  padding: 7% 0 5% 0;
+  line-height: 1.5;
+}
+
+.fil-3{
+  padding: 0 15% 0 15%;
+}
+
+.fil-3 p{
+  font-size: 24px;
+  font-family: "proximanova-light";
+  color: #f6f6f6;
+  padding: 5% 0% 0 0%;
+  line-height: 1.5;
+}
+
+.fil-3 a{
+  background-color: #179AD6;
+  border: solid 2px #179AD6;
+  font-family: "proximanova-light";
+  text-decoration: none;
+  border-radius: 5px;
+  color: #f6f6f6;
+  padding: 3% 30% 3% 30%;
+  width: 13%;
+  font-size: 24px;
+
+}
+
+.fil-4{
+  padding: 0 15% 0 15%;
+}
+
+.fil-4 p{
+  font-size: 24px;
+  font-family: "proximanova-light";
+  color: #f6f6f6;
+  padding: 5% 0 5% 0;
+  line-height: 1.5;
+}
+
+.fil-4 a{
+  background-color: transparent;
+  border:2px solid #f6f6f6;
+  font-family: "proximanova-light";
+  text-decoration: none;
+  border-radius: 5px;
+  color: #f6f6f6;
+  padding: 3% 10% 3% 10%;
+  width: 14%;
+  font-size: 24px;
+}
+
+
+.fil-5{
+  padding: 0 15% 0 15%;
+}
+
+.contenedor1 .col-4{
+  padding-top: 7%;
+  padding-left: 5%;
+}
+
+.contenedor2 h2{
+  color:#002366;
+  font-size: 45px;
+  font-family: "proximanova-light";
+  padding: 10% 0 0 0;
+}
+
+.contenedor2 p:nth-child(2){
+  font-size: 18px;
+  line-height: 1.5;
+  font-family: "proximanova-regular";
+  padding: 5% 0% 10% 0%
+}
+
+.contenedor2 p:nth-child(3){
+  color:#002366;
+  font-size: 24px;
+  padding: 0 0 8%;
+  font-family: "proximanova-light";
+}
+
+.contenedor2 a{
+  background-color: #179AD6;
+  border:2px solid #179AD6;
+  font-family: "proximanova-light";
+  text-decoration: none;
+  border-radius: 5px;
+  color: #f6f6f6;
+  padding: 7px 35px 7px 35px;
+  width: 14%;
+  font-size: 24px;
+}
+
+.equipo{
+  background-color: #f6f6f6;
+  text-align: center;
+}
+.fil-6,.fil-8{
+  padding-left:27%;
+}
+.fil-7{
+  padding-left: 16%;
+  padding-right: 11%;
+}
+
+.contenedor3 .col-3{
+  background-color: white;
+  margin-left: 4.2%;
+  margin-bottom:4%;
+  height:245px;
+ 
+ }
+ .contenedor3 .col-3 img{
+  width: 100%;
+  height: 150px;
+  background-size: cover;
+  text-align: center;
+  margin-bottom: 3%;
+ }
+ .contenedor3 .col-3 h6{
+  font-weight: 600;
+  font-size: 14px;
+  font-family: "proximanova-light";
+ }
+
+ .contenedor3 p{
+  font-size: 12px;
+  font-family: "proximanova-light";
+ }
+
+.contenedor3 h2{
+  color: #002366;
+  font-family: "proximanova-light";
+  font-size: 45px;
+  margin:4% 0%;
+}
+
+.contenedor3 h3{
+  color: #002366;
+  font-family: "proximanova-light";
+  font-size: 30px;
+  margin-bottom: 4%;
+}
+
+
+
