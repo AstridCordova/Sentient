@@ -14,7 +14,9 @@ nav a {
     color: #606060;
     padding: 0% 3%;
     text-decoration: none;
-    font-size: 18px;  }
+    font-size: 18px;
+      }
+nav a:hover { color: #002366; }
 
 nav a:last-child { padding: 0 0 0 3%; }
 
